@@ -1,0 +1,26 @@
+:root {
+    --light-screen: #e6e6b4;
+    --screen: #D0D058;
+    --dark-green: #415110;
+    --green: #4F5F18;
+    --light-green: #6F7F28;
+}
+
+@font-face {
+    font-family: 'EarlyGameboy';
+    src: url('../fonts/Early Gameboy.ttf') format('truetype');
+}
+
+* {
+    font-family: 'EarlyGameboy', sans-serif;
+}
+
+body {
+    background-color: var(--screen);
+    margin: 0;
+    height: 100vh;
+    padding: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
