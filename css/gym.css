@@ -52,6 +52,7 @@ h1 {
 }
 .box b{
     font-size: 20pt;
+    color: var(--dark-green);
 }
 .box form {
     display: flex;
@@ -67,7 +68,7 @@ h1 {
 .box button {
     padding: 10px;
     background-color: var(--green);
-    color: white;
+    color: var(--screen);
     border: 2px solid var(--dark-green);
     border-radius: 5px;
     cursor: pointer;
