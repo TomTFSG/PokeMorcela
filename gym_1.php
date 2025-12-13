@@ -221,7 +221,7 @@ $enemyPoke = $battle["enemy_team"][$enemyActive];
 <!DOCTYPE html>
 <html>
 <head>
-<title>POKEMORCELA - GYM 1</title>
+<title>POKEMORCELA</title>
 <link href="../css/basic.css" rel="stylesheet">
 <link href="../css/gym.css" rel="stylesheet">
 </head>

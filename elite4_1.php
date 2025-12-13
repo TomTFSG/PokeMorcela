@@ -72,12 +72,12 @@ if (!isset($_SESSION['battle'])) {
                 "Minor Pectoralis" => 50,
                 "Flex" => 50,
             ]],
-            "Back" => ["hp" => 150, "defeated" => false, "img" => "arms.png", "moves" => [
+            "Costas" => ["hp" => 150, "defeated" => false, "img" => "vack.png", "moves" => [
                 "Trapezoide" => 70,
                 "Omoplata Fodilhona" => 50,
                 "Flex" => 50,
             ]],
-            "Head" => ["hp" => 150, "defeated" => false, "img" => "head.png", "moves" => [
+            "Cabeça" => ["hp" => 150, "defeated" => false, "img" => "head.png", "moves" => [
                 "Cabeçada" => 50,
                 "Pimba na Testa" => 70,
                 "Pensar" => 50,

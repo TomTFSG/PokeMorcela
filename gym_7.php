@@ -67,7 +67,7 @@ if (!isset($_SESSION['battle'])) {
                 "PAPAPA" => 60,
                 
             ]],
-            "AWP" => ["hp" => 175, "defeated" => false, "img" => "AWP.png", "moves" => [
+            "AWP" => ["hp" => 175, "defeated" => false, "img" => "awp.png", "moves" => [
                 "Peak no Mid" => 80,
                 "Pontaria de Merda" => 0,
                 "Furadinho" => 70,
@@ -235,7 +235,7 @@ $enemyPoke = $battle["enemy_team"][$enemyActive];
 <!DOCTYPE html>
 <html>
 <head>
-<title>POKEMORCELA - GYM 2</title>
+<title>POKEMORCELA</title>
 <link href="../css/basic.css" rel="stylesheet">
 <link href="../css/gym.css" rel="stylesheet">
 </head>
